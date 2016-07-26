@@ -39,7 +39,7 @@
         android:src="@drawable/ic_arbol"
         app:civ_border_width="2dp"
         app:civ_border_color="#000000"/>
-    
+
 
     <!-- Detalles:
         app:civ_border_width="2dp"      (Ancho del Borde)
